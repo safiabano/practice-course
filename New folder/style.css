@@ -1,0 +1,17 @@
+body{
+    background-image:url(assets/images/frozen-bubble-1943224_1280.jpg);
+   
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;color:brown;
+    
+}
+.best{
+    border: 10px solid blue ;width: 260px ;height: 195px;
+    font:  iatlic  small-caps  bold  30px  ;font-family: fantasy;line-height: 40px;
+}
+.top{
+    border: 10px solid black;width:315px ;height: 160px;
+    
+    size: 30px;
+}
